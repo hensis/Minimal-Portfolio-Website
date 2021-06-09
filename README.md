@@ -1,7 +1,7 @@
 # Jekyll Minimal Portfolio
 Hi, this is a Minimal Portfolio built using Jekyll and Desinged using BootstrapStudio.
 
-Credits to (jibolash)[https://github.com/jibolash/Eve] and (sergiokopplin)[https://github.com/sergiokopplin/indigo] for the Design Inspiration.
+Credits to (jibolash) [https://github.com/jibolash/Eve] and (sergiokopplin) [https://github.com/sergiokopplin/indigo] for the Design Inspiration.
 
 ## Set Up
 
