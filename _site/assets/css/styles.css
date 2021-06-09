@@ -1,0 +1,86 @@
+#main_heading {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+}
+
+#main_header_img {
+  border-radius: 93px;
+  width: 100px;
+  height: 100px;
+}
+
+#main_heading {
+  margin-top: 20vh;
+}
+
+#main_header_descr {
+  margin-top: 2vh;
+}
+
+hr {
+  margin-top: 4vh;
+}
+
+#main_header_txt {
+  margin-top: 1vh;
+}
+
+section {
+  text-align: center;
+}
+
+#aboutme {
+  text-align: center;
+  width: 40vw;
+  margin: auto;
+  margin-top: 3vh;
+}
+
+.icon.ion-social-twitter {
+}
+
+.social-icons {
+  height: 150px;
+  margin-top: 0vh;
+}
+
+svg {
+  font-size: 1px;
+  display: inline-block;
+  color: #757980;
+  margin: 0 10px;
+  width: 60px;
+  height: 60px;
+  border: 1px solid #c8ced7;
+  text-align: center;
+  border-radius: 50%;
+  line-height: 60px;
+}
+
+p {
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  width: 50vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr:after {
+  background: #fff;
+  content: '○';
+  font-size: 12px;
+  padding: 0 30px;
+  position: relative;
+  top: -13px;
+  color: #9da0a4;
+}
+
+#aboutme-2 {
+  margin-bottom: 9vh;
+}
+
+#footer {
+  margin-top: 8vh;
+}
+
