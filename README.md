@@ -14,7 +14,7 @@ Credits to [jibolash](https://github.com/jibolash/Eve) and [sergiokopplin](https
 This will host the Webiste on http://127.0.0.1:4000
 
 3. Modify `_config.yml`
-Modify the fields in this file(name, bio, aboutMe, etc)
+Modify the fields in this file(name, bio, bio image, aboutMe)
 
 4. Push to your repo
 5. Set up Github Pages
