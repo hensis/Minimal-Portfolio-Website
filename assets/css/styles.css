@@ -26,6 +26,10 @@ h1 {
   color: white;
 }
 
+h6, h4, p {
+  color: lightgrey;
+}
+
 #main_header_txt {
   margin-top: 1vh;
 }
@@ -47,7 +51,7 @@ section {
 .social-icons {
   height: 150px;
   margin-top: 0vh;
-  background-color: #757980;
+  background-color: #343a40;
 }
 
 svg {
