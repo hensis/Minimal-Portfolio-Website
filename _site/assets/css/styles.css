@@ -22,6 +22,18 @@ hr {
   margin-top: 4vh;
 }
 
+h1 {
+  color: white;
+}
+
+h6 {
+  color: lightgrey;
+}
+
+h4 {
+  color: #ffffff;
+}
+
 #main_header_txt {
   margin-top: 1vh;
 }
@@ -43,12 +55,14 @@ section {
 .social-icons {
   height: 150px;
   margin-top: 0vh;
+  background-color: #343a40;
+  color: white;
 }
 
 svg {
   font-size: 1px;
   display: inline-block;
-  color: #757980;
+  color: #ffffff;
   margin: 0 10px;
   width: 60px;
   height: 60px;
@@ -58,7 +72,13 @@ svg {
   line-height: 60px;
 }
 
+body {
+  background-color: #343a40
+}
+
+
 p {
+  color: #adadad;
   margin-top: 2vh;
   margin-bottom: 2vh;
   width: 50vw;
@@ -67,13 +87,12 @@ p {
 }
 
 hr:after {
-  background: #fff;
   content: '○';
   font-size: 12px;
   padding: 0 30px;
   position: relative;
   top: -13px;
-  color: #9da0a4;
+  color: #ffffff;
 }
 
 #aboutme-2 {
