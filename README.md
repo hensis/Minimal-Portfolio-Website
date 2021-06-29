@@ -9,7 +9,7 @@ Credits to [jibolash](https://github.com/jibolash/Eve) and [sergiokopplin](https
 2. Test the Website locally:
   - `cd DarkJKT`
   - `bunlde install`
-  - `jekyll serve`
+  - `bundle exec jekyll serve`
 
 This will host the Webiste on http://127.0.0.1:4000
 
