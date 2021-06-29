@@ -5,9 +5,9 @@ Credits to [jibolash](https://github.com/jibolash/Eve) and [sergiokopplin](https
 
 ## Set Up
 
-1. Clone the Git Repo: `git clone https://github.com/hensis/Minimal-Portfolio-Website`
+1. Clone the Git Repo: `git clone https://github.com/heytdep/DarkJKT`
 2. Test the Website locally:
-  - `cd Minimal-Portfolio-Website`
+  - `cd DarkJKT`
   - `bunlde install`
   - `jekyll serve`
 
