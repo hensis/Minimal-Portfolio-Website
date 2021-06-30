@@ -26,12 +26,8 @@ h1 {
   color: white;
 }
 
-h6 {
+h6, h4, p {
   color: lightgrey;
-}
-
-h4 {
-  color: #ffffff;
 }
 
 #main_header_txt {
@@ -56,13 +52,12 @@ section {
   height: 150px;
   margin-top: 0vh;
   background-color: #343a40;
-  color: white;
 }
 
 svg {
   font-size: 1px;
   display: inline-block;
-  color: #ffffff;
+  color: #757980;
   margin: 0 10px;
   width: 60px;
   height: 60px;
@@ -78,7 +73,6 @@ body {
 
 
 p {
-  color: #adadad;
   margin-top: 2vh;
   margin-bottom: 2vh;
   width: 50vw;
