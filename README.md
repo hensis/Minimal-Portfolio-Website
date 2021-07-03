@@ -8,7 +8,7 @@ Credits to [jibolash](https://github.com/jibolash/Eve) and [sergiokopplin](https
 1. Clone the Git Repo: `git clone https://github.com/heytdep/DarkJKT`
 2. Test the Website locally:
   - `cd DarkJKT`
-  - `bunlde install`
+  - `bundle install`
   - `bundle exec jekyll serve`
 
 This will host the Webiste on http://127.0.0.1:4000
